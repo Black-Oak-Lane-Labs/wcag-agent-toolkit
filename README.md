@@ -44,7 +44,7 @@ Report (prompts/acr-prompt.md → draft ACR on the VPAT 2.5 INT structure)
 
 ## What this deliberately does not do
 
-Honesty is a feature of this toolkit, so here is the boundary. No automated system replaces manual assistive technology testing; every audit and every draft ACR in this toolkit carries the human verification items forward instead of pretending they cleared. Native mobile apps are out of scope (different specification). Governance (ownership, SLAs, defect routing, legal posture) is organization-specific by nature and no template does it honestly. If you need those layers designed, that is consulting work, and it should be.
+Honesty is a feature of this toolkit, so here is the boundary. No automated system replaces manual assistive technology testing; every audit and every draft ACR in this toolkit carries the human verification items forward instead of pretending they cleared. Native mobile apps are out of scope (different specification). Agent operability standards like WebMCP (how sites expose tools to AI agents, rather than how humans access pages) are out of scope; that spec is still in a Chrome origin trial, and a companion toolkit may follow once it stabilizes. Governance (ownership, SLAs, defect routing, legal posture) is organization-specific by nature and no template does it honestly. If you need those layers designed, that is consulting work, and it should be.
 
 ## Standards note
 
